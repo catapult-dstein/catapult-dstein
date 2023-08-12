@@ -1,7 +1,9 @@
+# Who?
+
 - 👋 Hi, I’m @catapult-dstein
-- 👀 I’m interested in beer
-- 🌱 I’m currently learning kusto
-- 💞️ I’m looking to collaborate on beer
+- 👀 I’m interested in house repair and paying bills
+- 🌱 I’m currently learning how to pay bills
+- 💞️ I’m looking to collaborate on paying bills
 - 📫 How to reach me @work 
 
 <!---
